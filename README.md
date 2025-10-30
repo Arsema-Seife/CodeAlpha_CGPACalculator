@@ -35,4 +35,4 @@ It validates grade input and gives a clean summary at the end.
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/CodeAlpha_CGPACalculator.git
+   git clone https://github.com/Arsema-Seife/CodeAlpha_CGPACalculator
