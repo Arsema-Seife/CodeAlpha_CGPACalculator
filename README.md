@@ -27,7 +27,7 @@ It validates grade input and gives a clean summary at the end.
 
 ## 💻 Technologies Used
 - **Language:** C++
-- **Tools:** Code::Blocks / Visual Studio Code
+- **Tools:** Code::Blocks / Visual Studio Code/Jetbrains CLion
 - **Concepts:** Loops, Structures, Arrays, Input Validation
 
 ---
